@@ -1,0 +1,4 @@
+Module 1 - Basic LERP - Asset Credits
+---
+Pac-man cereal and ground sprites by Samantha Stahlke.
+Pac-man cereal sprite is based on a design by Robson Basha.
