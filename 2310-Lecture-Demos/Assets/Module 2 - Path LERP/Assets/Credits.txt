@@ -1,0 +1,3 @@
+Module 2 - Path LERP - Asset Credits
+---
+Pac-Man model and texture by @adelioart on Sketchfab.
