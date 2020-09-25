@@ -1,0 +1,3 @@
+Module 5 - Bezier Splines - Asset Credits
+---
+Isabelle model and texture by @Chloe Garces on Sketchfab.
