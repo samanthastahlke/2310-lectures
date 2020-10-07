@@ -1,0 +1,5 @@
+Module 8 - Controllers and Basic Physics - Asset Credits
+---
+Michelle character and animations taken from Mixamo.
+Ball model and texture by Josh Bellyk.
+Floor texture by PamNawi on OpenGameArt.
