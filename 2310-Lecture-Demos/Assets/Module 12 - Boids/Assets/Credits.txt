@@ -1,0 +1,3 @@
+Module 12 - Boids - Asset Credits
+---
+Paper airplane model and texture by Josh Bellyk.
