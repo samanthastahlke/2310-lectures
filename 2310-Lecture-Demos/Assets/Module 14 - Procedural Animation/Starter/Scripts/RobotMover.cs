@@ -272,7 +272,8 @@ public class RobotMover : MonoBehaviour
         toTarget.y = 0.0f;
 
         //This will be our last step...
-        if (toTarget.magnitude < threshold)
+        //This logic will let our bot take a bigger final step if he's in reach.
+        if ((toTarget.magnitude) < maxStepDistance + threshold)
         {
             stepInfo.bodyEnd = posTarget.position;
             stepInfo.bodyEnd.y = 0.0f;
