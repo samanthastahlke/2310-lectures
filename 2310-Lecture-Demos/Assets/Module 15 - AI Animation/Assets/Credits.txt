@@ -1,0 +1,3 @@
+Module 15 - AI Animation - Asset Credits
+---
+"YBot" character and animations taken from Mixamo.
