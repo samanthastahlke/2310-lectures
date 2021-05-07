@@ -1,5 +1,7 @@
 # 2310 Lecture Demos
 
+2021 UPDATE: Although the class is over, should anyone stumble upon this repository as an educator, you can find a brief guide for using these modules in-class, by going from starter to completed code along with your students during class, [here](https://docs.google.com/document/d/1SDLx8A5SzNQNteSCqG8pGBy6mQ403b2Cs9hOTWFQt7w/edit?usp=sharing).
+
 This is a small Unity 2020 project featuring demo scenes illustrating basic computer animation concepts. This repository will be updated in advance of every lecture with a "Starter" folder containing everything you will need to get started with that class' example. I will be coding live during the class, starting from the contents of the "Starter" folder. You can follow along during class to finish the example, learning how to implement relevant concepts along the way.
 
 ## Quick Start for Students
